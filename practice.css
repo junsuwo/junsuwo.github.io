@@ -1,0 +1,34 @@
+nav {background-color: rgb(247, 129, 60); font-size: 150%; text-align: center}
+nav a {color:rgb(255, 255, 255)}
+
+    body {
+
+        background-color: rgb(255, 201, 158);
+
+    }
+
+    h1 {
+
+        font-family: "Times New Roman", Georgia, Serif;
+
+        text-align: center;
+
+    }
+   
+    p {
+
+        color: #000000;
+
+        text-decoration:underline;
+
+        font-weight: bold;
+
+    }
+    ul { background: #f89853; padding: 15px; }
+   
+ 
+  
+    ul li { background: #DEB887; margin: 5px; }
+   
+
+   
